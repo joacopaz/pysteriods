@@ -7,4 +7,5 @@ To run it:
 
 - You can download the executable in the release section [here](https://github.com/joacopaz/pysteriods/releases/download/1.0/main)
 
-![See the demo here](pysteroids-demo.mov)
+## see the demo!
+[pysteroids-demo.webm](https://github.com/user-attachments/assets/714ab522-ec49-4048-854f-1a820f0ea320)
