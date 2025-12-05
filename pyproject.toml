@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "Simple pygame testing of an Asteroids game implementation for Python"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = ["pygame==2.6.1"]
+dependencies = [
+    "pygame==2.6.1",
+    "pyinstaller>=6.17.0",
+]
